@@ -13,10 +13,6 @@ const initialState = map({
 		'8gi55rt':{
 			name: 'Juan',
 			description: 'Alto, moreno y guapo'
-		},
-		'2':{
-			name: 'Juan',
-			description: 'Alto, moreno y guapo'
 		}
 	})
 });
