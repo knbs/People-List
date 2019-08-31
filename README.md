@@ -4,7 +4,8 @@ This is a sample of using React with redux and some other libraries as immutable
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), so you can use the usual commands for running or build the app.
 
-Remember to run `npm install` to download all the required dependencies. Run `npm start` to rapidly have the app working.  
+Remember to run `npm install` to download all the required dependencies.  
+Run `npm start` to rapidly have the app working.  
 Test it!!!
 
 As following below, you can run any of the commands from the root directory:
