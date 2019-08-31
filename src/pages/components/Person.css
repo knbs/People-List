@@ -1,0 +1,22 @@
+.Person {
+	margin-bottom: 15px;
+}
+.Person .btn-group {
+	width: 100%;
+}
+.Person .btn-group button:first-of-type {
+	width: 100%;
+	border-radius: 0.25rem !important;
+}
+.Person .btn-group:hover button:first-of-type {
+	width: 80%;
+	border-radius: 0.25rem 0 0 0.25rem !important;
+}
+.Person .btn-group button:last-of-type {
+	width: 0%;
+	display: none
+}
+.Person .btn-group:hover button:last-of-type {
+	width: 20%;
+	display: inline-block;
+}

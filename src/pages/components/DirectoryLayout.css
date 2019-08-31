@@ -1,0 +1,14 @@
+.DirectoryLayout{
+	height: 100%;
+}
+.DirectoryLayout .mt-auto button {
+	margin-top: .5rem
+}
+
+.DirectoryLayout button {
+	height: 50px;
+}
+
+.DirectoryLayout #add-person-btn svg {
+	fill: white;
+}

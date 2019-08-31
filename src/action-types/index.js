@@ -1,0 +1,5 @@
+export const PERSON_SELECTED = 'PERSON_SELECTED';
+export const ADD_PERSON = 'ADD_PERSON';
+export const UPDATE_PERSON = 'UPDATE_PERSON';
+export const DELETE_PERSON = 'DELETE_PERSON';
+export const TOOGLE_FORM = 'TOOGLE_FORM';
